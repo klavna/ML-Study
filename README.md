@@ -1,2 +1,13 @@
-# ML-Study
-GDSC-DAU ML 스터디입니다.
+# 📕[ML Sutdy]
+Add a study introduction
+
+# 📝Study Curriculum
+Write a study curriculum.
+
+# 📅Week's Homework
+Organize this week's homework
+
+# 📑Study Reference
+Share study reference
+
+
