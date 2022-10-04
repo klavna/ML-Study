@@ -28,4 +28,3 @@ Organize this week's homework
 
 # 📑Study Reference
 Share study reference
-[dartpad](https://dartpad.dev/)
