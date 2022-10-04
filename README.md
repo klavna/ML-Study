@@ -1,4 +1,4 @@
-# 📕[ML Sutdy]
+# 📕[ML Study]
 In preparation for next year's [Google Solution Challenge](https://www.gdscutd.tech/events/gsc), we propose a practice-oriented attribute curriculum.
 
 - Period: From early October to early January (However, the midterm/final exam period will be suspended for 2 weeks)
