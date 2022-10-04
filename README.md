@@ -1,10 +1,4 @@
 # 📕[ML Sutdy]
-
-내년 를 대비하여 실습위주의 속성 커리큘럼을 제안합니다.
-- 기간: 10월 초 ~ 1월초까지 진행 (단, 중간/기말 시험기간 2주씩 중단)
-- 수학&딥한 이론보단 실습위주 진행
-- 진행하는데 필요한 자료 제공
-
 In preparation for next year's [Google Solution Challenge](https://www.gdscutd.tech/events/gsc), we propose a practice-oriented attribute curriculum.
 
 - Period: From early October to early January (However, the midterm/final exam period will be suspended for 2 weeks)
